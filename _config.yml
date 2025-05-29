@@ -1,7 +1,7 @@
 title: My IT Blog
 description: Notes, code, and hacks from an IT pro
-baseurl: "" 
-url: "https://yourusername.github.io"
+baseurl: "/blog" 
+url: "https://scavengerdeeluxe.github.io"
 markdown: kramdown
 highlighter: rouge
 remote_theme: pages-themes/slate@v0.2.0
