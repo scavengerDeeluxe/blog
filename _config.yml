@@ -4,4 +4,4 @@ baseurl: "/blog"
 url: "https://scavengerdeeluxe.github.io"
 markdown: kramdown
 highlighter: rouge
-theme: minimal
+theme: minima
